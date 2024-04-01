@@ -1,0 +1,7 @@
+__main__.py=bazel-out/x64_windows-fastbuild/bin/calc/calculator_test.temp
+__init__.py=
+runfiles/_main/__init__.py=
+runfiles/_main/calc/__init__.py=
+runfiles/_main/calc/calculator.py=calc/calculator.py
+runfiles/_main/calc/calculator_test.py=calc/calculator_test.py
+runfiles/_repo_mapping=bazel-out/x64_windows-fastbuild/bin/calc/calculator_test.zip.repo_mapping

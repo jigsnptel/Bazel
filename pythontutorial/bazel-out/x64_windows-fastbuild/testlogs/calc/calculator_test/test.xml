@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+<testsuite name="calc/calculator_test.exe" tests="1" failures="0" errors="0">
+<testcase name="calc/calculator_test.exe" status="run" duration="0" time="0"></testcase>
+<system-out><![CDATA[Executing tests from //calc:calculator_test
+-----------------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+OK
+]]></system-out>
+</testsuite>
+</testsuites>
